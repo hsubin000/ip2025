@@ -1,5 +1,4 @@
-# ip2025
-# OpenCV-Python Tutorials
+#20230921 컴퓨터공학과 허수빈
 OpenCV-Python Tutorials
 
 Homework2  
