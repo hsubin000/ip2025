@@ -10,4 +10,6 @@ https://youtu.be/nhADslta0KA
 
 Homework3
 
-<img src="./images/homework2.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img width="1335" height="1121" alt="homework3" src="https://github.com/user-attachments/assets/c1d21ea2-bb38-48e0-b310-3d9dae2c0f6f" />
+
+
