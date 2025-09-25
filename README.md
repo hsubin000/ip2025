@@ -4,6 +4,8 @@ Homework1
 
 https://youtu.be/1oigcVyG3Cw
 
+[![Video](https://img.youtube.com/vi/1oigcVyG3Cw/hqdefault.jpg)](https://www.youtube.com/watch?v=1oigcVyG3Cw)
+
 Homework2
 
 https://youtu.be/nhADslta0KA
